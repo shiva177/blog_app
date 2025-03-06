@@ -42,5 +42,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## You can check out this platform here:🔗🔗🔗🔗🔗🔗
-*Vercel Link:https://blogapp-platform.vercel.app/
+*Vercel Link:[https://cute-gingersnap-d670ad.netlify.app/]
 >>>>>>> 551cf89 (update layout)
